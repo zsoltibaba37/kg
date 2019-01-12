@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.7
+#!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 
 # kg-ot és dkg-ot alakít át grammá.
